@@ -18,25 +18,27 @@ BEAP undertakes work for open sourced projects mostly. Though we accept paid cli
 
 # Short Background
 
-**ABOUT BEAP V3.0**
+<p align="center"><b>ABOUT BEAP V3.0</b></p>
 BEAP V3.0 is the third installment of Base of Eternal Application of Programming (BEAP) which is a non profit organization of programmers.
 BEAP was established in 2019 whereas its V3.0 was established somewhere in late 2022 and early 2023.
 
-**PURPOSES**
+<p align="center"><b>PURPOSES</b></p>
 BEAP undertakes work for non profit motives. It works on projects mainly open sourced as a hobby and to help people.
 
-**FOUNDERS**
-@randomboi404 
-Shreyash
+<p align="center"><b>FOUNDERS</b></p>
+[@randomboi404] (https://github.com/randomboi404)
+[@ShreyashTailor] (https://github.com/ShreyashTailor)
 
-**HISTORY**
-The name 'BEAP' was originally recommended by Shreyash. Though, there was no full form of BEAP.
-However in early 2023, under the suggestion of a BEAP member, @randomboi404 created BEAP full form of 'Base of Eternal Application for Programming'.
+<p align="center"><b>HISTORY</b></p>
+The name 'BEAP' was originally recommended by [@ShreyashTailor] (https://github.com/ShreyashTailor).
+Though, there was no full form of BEAP.
+However in early 2023, under the suggestion of a BEAP member, [@randomboi404] (https://github.com/randomboi404) created BEAP full form of 'Base of Eternal Application for Programming'.
 It may sound humourous, but that's it.
 
-**WANNA BE A PART OF OUR ORGANISATION?**
+<p align="center"><b>WANNA BE A PART OF OUR ORGANISATION?</b></p>
 It's free to join BEAP.
 Join our Discord to know more.
 
-**ABOUT BEAP V3.0**
+<p align="center"><b>WHY 3.0?</b></p>
+
 BEAP had 2 major versions. Original version had nothing special that's why we created V2.0. However, for private reasons, due to internal disputes, it couldn't be developed and that's why here we are, V3.0, the reboot of BEAP!
