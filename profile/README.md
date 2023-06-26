@@ -24,7 +24,6 @@ BEAP was established in 2019 whereas its V3.0 was established somewhere in late 
 
 **PURPOSES**
 BEAP undertakes work for non profit motives. It works on projects mainly open sourced as a hobby and to help people.
-*As of now*, BEAP does not work for profit motives.
 
 **FOUNDERS**
 @randomboi404 
@@ -37,18 +36,7 @@ It may sound humourous, but that's it.
 
 **WANNA BE A PART OF OUR ORGANISATION?**
 It's free to join BEAP.
-Join
+Join our Discord to know more.
 
 **ABOUT BEAP V3.0**
-BEAP had 2 major versions. Original version had nothing special that's why we created V2.0. However, for private reasons, it couldn't be developed and that's why here we are, V3.0, the reboot of BEAP!
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+BEAP had 2 major versions. Original version had nothing special that's why we created V2.0. However, for private reasons, due to internal disputes, it couldn't be developed and that's why here we are, V3.0, the reboot of BEAP!
